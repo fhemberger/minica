@@ -1,1 +1,3 @@
-module github.com/jsha/minica
+module github.com/fhemberger/minica
+
+go 1.13
